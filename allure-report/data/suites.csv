@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5075","@Web UI Controls","","2026-04-01","passed","2026-04-01","","rstest\UIBasicstest.spec.js","",""
+"","6683","@Child windows hadl","","2026-04-01","passed","2026-04-01","","rstest\UIBasicstest.spec.js","",""
+"","90699","@Web Browser Context-Validating Error login","","2026-04-01","broken","2026-04-01","","rstest\UIBasicstest.spec.js","",""
