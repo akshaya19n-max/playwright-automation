@@ -221,4 +221,9 @@ function capitalizeFirstChar(sentence) {
         .join(" ");
 }
 
+
+
+
+
+
 console.log(capitalizeFirstChar("hi my name is akshaya"));
