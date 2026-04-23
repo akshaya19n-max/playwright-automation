@@ -1,7 +1,4 @@
 // write a code to login to gmail app, if there is any failure , then take screenshot 
-
-
-
 import test from '@playwright/test';
 
 test('gmail login', async ({ page }) => {
