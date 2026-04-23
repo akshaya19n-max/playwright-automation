@@ -31,7 +31,7 @@ reverse_string("hello");
 
 
  */
-//reverse a string 
+//reverse a string
 
 /* function findMax(arr) {
 
@@ -61,7 +61,7 @@ findMax([2, 6, 4]); */
 evenNum([1]);
  */
 
-// input : Akshaya 
+// input : Akshaya
 // output : aKsHaYa
 
 /* function caps(str) {
@@ -91,8 +91,5 @@ evenNum([1]);
 caps("Akshaya");*/
 
 
-let str = "Akshaya";
-for (let i = 0; i < str.length; i++) {
 
-    console.log(str[i]);
-}
+

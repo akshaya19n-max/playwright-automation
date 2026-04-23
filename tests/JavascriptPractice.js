@@ -466,7 +466,7 @@ console.log(findMin([5, 10, -1, 8]));
 
 findRepeated("appium");
  */
-
+/* 
 let arr = [1, 2, 3, 4, 5];
 let temp;
 let n = 3;
@@ -479,7 +479,13 @@ for (let i = 0; i < n; i++) {
 
 console.log(arr);
 
+ */
 
+/* const input = [1, [2, [3], 4]];
+
+const output = input.flat(Infinity);
+
+console.log(output); // [1, 2, 3] */
 
 
 
