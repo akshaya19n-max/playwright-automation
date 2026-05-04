@@ -7,16 +7,15 @@ class LoginPageSwag {
         this.loginButton = page.locator("#login-button");
     }
 
-    async function login(user, pass) {
+    async login(user, pass) {
 
-    await this.username.fill(user);
-    await this.password.fill(pass);
-    await this.loginButton.click();
-    console.log("logged in successfully !");
+        await this.username.fill(user);
+        await this.password.fill(pass);
+        await this.loginButton.click();
+        console.log("logged in successfully !");
 
 
-}
-
+    }
 }
 
 export default LoginPageSwag;

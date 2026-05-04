@@ -13,7 +13,6 @@ customtest = base.test.extend(
         }
 
     }
-
 )
 
 export default customtest;

@@ -18,7 +18,7 @@ class APIAsnmt {
     }
 
 }
-module.exports = { APIAsnmt };
+export default { APIAsnmt };
 
 
 
