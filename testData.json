@@ -1,0 +1,26 @@
+[
+  {
+    "name": "User1",
+    "email": "user1@test.com",
+    "password": "Test@123",
+    "firstName": "Akshaya",
+    "lastName": "N",
+    "address": "Bangalore",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "zipcode": "560001",
+    "mobile": "9876543210"
+  },
+  {
+    "name": "User2",
+    "email": "user2@test.com",
+    "password": "Test@123",
+    "firstName": "Asha",
+    "lastName": "K",
+    "address": "Mysore",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "zipcode": "570001",
+    "mobile": "9123456780"
+  }
+]

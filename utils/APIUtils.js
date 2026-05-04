@@ -5,7 +5,8 @@ class APiUtils {
     }
 
     async getToken() {
-        const loginResponse = await this.apiContext.post("https://rahulshettyacademy.com/api/ecom/auth/login", {
+        const loginResponse = await this.apiContext.post("https://rahulshettyacademy.com/api/ecom/auth/login", 
+        {
             data: this.loginPayLoad
         }); // 200, 201
         const loginResponseJson = await loginResponse.json();
